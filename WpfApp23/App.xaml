@@ -6,4 +6,7 @@
     <Application.Resources>
          
     </Application.Resources>
+    <Application.MainWindow>
+        <RibbonWindow/>
+    </Application.MainWindow>
 </Application>
